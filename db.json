@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "empl": [],
+      "id": "1",
+      "name": "Rahul Morade",
+      "email": "rahulmorade11@gmail.comb",
+      "mobile": "123555"
+    },
+    {
+      "empl": [],
+      "id": "2",
+      "name": "arbaj kalawant",
+      "email": "rahulmorade11@gmail.co",
+      "mobile": "123"
+    },
+    {
+      "empl": [],
+      "id": "3",
+      "mobile": "9850307533",
+      "name": "pritam patil",
+      "email": "rmorade2@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "shreya",
+      "email": "shreya@gmail.com",
+      "mobile": 9595548593
+    },
+    {
+      "empl": [],
+      "id": "5",
+      "name": "abc",
+      "email": "rakesh_patil@yahoo.com",
+      "mobile": "9850307875"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typecode"
+  }
+}
