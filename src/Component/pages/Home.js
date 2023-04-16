@@ -17,9 +17,6 @@ class Home extends React.Component {
 
     }
 
-
-
-
     load = async () => {
         await axios.get("http://localhost:3003/posts")
 

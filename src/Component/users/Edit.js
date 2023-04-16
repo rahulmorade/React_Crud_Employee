@@ -56,14 +56,10 @@ class Edit extends React.Component {
             });
     }
     
-     
-    
+
      componentDidMount(e) {
         this.loadUser(e)
     }
-
-
-   
 
 
     _handleSubmit = async (event) => {
